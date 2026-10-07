@@ -1,0 +1,7 @@
+{
+  "name": "OmniMetrics — Interactive Data Visualization Studio",
+  "description": "Multi-dimensional analytics dashboard with instant CSV/JSON data import, customizable interactive charts, and statistical insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
